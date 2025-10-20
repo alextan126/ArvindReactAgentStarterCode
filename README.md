@@ -1,4 +1,6 @@
 # ArvindReactAgentStarterCode
+# Read this article about ReAct Agent from IBM
+https://www.ibm.com/think/topics/react-agent
 
 #Initilize the virtual env
 
