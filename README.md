@@ -1,6 +1,8 @@
 # ArvindReactAgentStarterCode
 # Read this article about ReAct Agent from IBM
 https://www.ibm.com/think/topics/react-agent
+# Full document of LangChain Agent
+https://python.langchain.com/docs/tutorials/agents/
 
 #Initilize the virtual env
 
