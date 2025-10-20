@@ -1,26 +1,26 @@
 # ArvindReactAgentStarterCode
-# Read this article about ReAct Agent from IBM
+## Read this article about ReAct Agent from IBM
 https://www.ibm.com/think/topics/react-agent
-# Full document of LangChain Agent
+## Full document of LangChain Agent
 https://python.langchain.com/docs/tutorials/agents/
 
-#Initilize the virtual env
+## Initilize the virtual env
 
 python3 -m venv .venv
 
-#Activate ve
+## Activate ve
 source .venv/bin/activate
 
-#Install required dependencies
+## Install required dependencies
 pip install -r requirements.txt
 
-# Set environment variables on your local machine
+## Set environment variables on your local machine
 
 export OPENAI_API_KEY=your_openai_key
 
 export ANTHROPIC_API_KEY=your_anthropic_key
 
-#Run agent (OpenAI by default)
+## Run agent (OpenAI by default)
 python agent.py
 
 ## Homework
