@@ -30,7 +30,7 @@ python agent.py
 - Add helpful `--help` examples and validate provider/model combinations.
 
 ## Learning Goal
--Get familar with python Argparser, if statement
--System var
--Generate API key for AI platform
+- Get familar with python Argparser, if statement
+- System var
+- Generate API key for AI platform
 
