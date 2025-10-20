@@ -1,0 +1,16 @@
+# Core LangChain and LangGraph
+langchain
+langgraph
+
+# Model providers
+langchain-openai
+openai
+langchain-anthropic
+anthropic
+
+# Search tool integration (Tavily)
+langchain-tavily
+tavily-python
+
+# Env loading (optional but convenient)
+python-dotenv
