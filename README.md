@@ -4,6 +4,8 @@ https://www.ibm.com/think/topics/react-agent
 ## Full document of LangChain Agent
 https://python.langchain.com/docs/tutorials/agents/
 
+## This is a simple example of creating a no-tool-using agent. Command line gpt basically. Not exactly fitting the definition of ReACT agent, but serving as a great starting point.
+
 ## Initilize the virtual env
 
 python3 -m venv .venv
